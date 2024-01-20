@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.nav{
+    width: 100vw;
+    height: 20vh;
+    background-color: aqua;
+    display: flex;
+    gap: 5rem;
+}
+
+.list{
+    display: flex;
+    list-style: none;
+    gap: 4rem;
+    margin-top: 4%;
+}
