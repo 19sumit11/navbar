@@ -1,1 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.h{
+    width: 100vw;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+}
+.a{
+    height: 50vh;
+    background-color: rgb(70, 157, 232);
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.h2{
+    background-color: brown;
+    height: 20vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 
+}
+
+.h3{
+    background-color: chocolate;
+}
